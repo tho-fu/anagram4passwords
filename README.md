@@ -1,5 +1,6 @@
 # anagram4passwords
 Looks for frequently used passwords due to anagrams of your input
+Multiple occurrences of the characters in the possible passwords are also output.
 
 Usage:
 
